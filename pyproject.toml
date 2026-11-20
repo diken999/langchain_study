@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "cryptography<=46.0.3",
+    "dashscope>=2.1.0",
     "fastmcp>=3.4.11",
     "ipykernel>=7.4.0",
     "ipywidgets>=8.1.9",
